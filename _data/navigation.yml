@@ -8,20 +8,19 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://workshibam.wordpress.com/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://scoliodonblog.wordpress.com/
     
   - title: "CV"
     url: /files/Shibam_CV_SE.pdf
     
   # - title: "Guide"
   #   url: /markdown/
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/   
