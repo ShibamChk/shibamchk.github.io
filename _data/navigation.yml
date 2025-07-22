@@ -1,0 +1,26 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+
+main:
+  - title: "Publications"
+    url: /files/publication.pdf
+
+  - title: "Portfolio"
+    url: https://workshibam.wordpress.com/
+        
+  - title: "Blog Posts"
+    url: https://scoliodonblog.wordpress.com/
+    
+  - title: "CV"
+    url: /files/Shibam_CV.pdf
+    
+  # - title: "Guide"
+  #   url: /markdown/
+  # - title: "Talks"
+  #   url: /talks/    #na
+
+  # - title: "Teaching"
+  #   url: /teaching/   
