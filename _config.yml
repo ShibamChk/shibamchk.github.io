@@ -24,7 +24,11 @@ author:
   avatar           : "shibamprofile.png"
   name             : "Shibam's Protfolio"
   pronouns         : # example: "she/her"  
+<<<<<<< HEAD
   bio              : "I am an undergraduate CS student. My primary focus is on: AI/ML, & Computer Vision"
+=======
+  bio              : "I am an undergraduate CS student. My primary focus is on: ML, DL, NN, NLP, LLM, AI, Business"
+>>>>>>> 89dd503217b59b29c6c8bcfa9a28307e89fe55f4
   location         : "Dhaka, Bangladesh"
   employer         : #na
   uri              : # URL
