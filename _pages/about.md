@@ -9,7 +9,55 @@ redirect_from:
 
 ➡️ I am Shibam Chakraborty. Currently in my last phase of undergraduate life on Computer Science in BRAC University, Bangladesh. I am a dedicated researcher with a deep passion for Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Artificial Intelligence (AI). Fascinated by the power of data-driven insights, I am drawn to the ever-evolving world of data science, where I strive to push the boundaries of innovation.
 
-🤖 Currently, I am actively engaged in writing a research paper, aiming to contribute impactful knowledge to the field. With a keen interest in cutting-edge AI advancements, I continuously explore new techniques and methodologies to develop intelligent solutions. My work is driven by curiosity, precision, and a vision to bridge the gap between theory and real-world applications.
+🤖 Currently, I am actively engaged in writing a research paper, aiming to contribute impactful knowledge to the field. With a keen interest in cutting-edge AI advancements, I continuously explore new techniques and methodologies to develop intelligent solutions. To build a successful researcher portfolio working on the modern fields of Computer Science.
+
+
+🙌 **Some projects of mine to mention**: 
+
+👉 *WebDev Project*:
+
+  I. Ghaughau--A Pet Adoption Platfrom (Built using NextJS, NodeJS, TalwindCSS)
+
+👉 *ML Project*:
+  
+  I. Football Match Outcome Prediction (Built using three fundamental ML model)
+
+👉 *Python Project*: 
+
+  I. RoadRash with Enemy 3D (A game made using OpenGL)
+
+
+🟠 **Ongoing Research Papers**:
+
+👉 *NLP*
+  
+  I.  Lipreading
+
+  II. MultiModal NLP
+
+👉 *Computer Vision*
+  
+  I.  Hybrid SOTA model for Disease Detection and Classification
+  
+  II. Blood Cell Detection
+
+
+🟠 **Ongoing Projects**:
+
+👉 Computer-Vision and NLP projects:
+
+  I. Live football match's player performance and speed detection and Analysis using YOlO based models.
+
+  II. End-to-end RAG system build.
+
+  III. AI system for Business field.
+
+
+
+
+
+
+
 
 <!-- A data-driven personal website
 ======
