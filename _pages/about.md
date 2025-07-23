@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👋
-
 ➡️ I am Shibam Chakraborty. Currently in my last phase of undergraduate life on Computer Science in BRAC University, Bangladesh. I am a dedicated researcher with a deep passion for Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Artificial Intelligence (AI). Fascinated by the power of data-driven insights, I am drawn to the ever-evolving world of data science, where I strive to push the boundaries of innovation.
 
 🤖 Currently, I am actively engaged in writing a research paper, aiming to contribute impactful knowledge to the field. With a keen interest in cutting-edge AI advancements, I continuously explore new techniques and methodologies to develop intelligent solutions. To build a successful researcher portfolio working on the modern fields of Computer Science.
