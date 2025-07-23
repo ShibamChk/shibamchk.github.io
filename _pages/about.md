@@ -38,13 +38,13 @@ redirect_from:
 👉 *Computer Vision*
   
   I.  Hybrid SOTA model for Disease Detection and Classification
-  
+
   II. Blood Cell Detection
 
 
 🟠 **Ongoing Projects**:
 
-👉 Computer-Vision and NLP projects:
+👉 *Computer-Vision and NLP projects*
 
   I. Live football match's player performance and speed detection and Analysis using YOlO based models.
 
