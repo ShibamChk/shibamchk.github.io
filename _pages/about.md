@@ -12,7 +12,7 @@ redirect_from:
 🤖 Currently, I am actively engaged in writing a research paper, aiming to contribute impactful knowledge to the field. With a keen interest in cutting-edge AI advancements, I continuously explore new techniques and methodologies to develop intelligent solutions. To build a successful researcher portfolio working on the modern fields of Computer Science.
 
 
-🙌 **Some projects of mine to mention**: 
+🟢 **Some projects of mine to mention**: 
 
 👉 *WebDev Project*:
 
@@ -24,7 +24,7 @@ redirect_from:
 
 👉 *Python Project*: 
 
-  I. RoadRash with Enemy 3D (A game made using OpenGL)
+  I. RoadRash with Enemy 3D (A game using OpenGL)
 
 
 🟠 **Ongoing Research Papers**:
