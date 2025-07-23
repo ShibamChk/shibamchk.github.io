@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "👋 Hi"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+👋
 
 ➡️ I am Shibam Chakraborty. Currently in my last phase of undergraduate life on Computer Science in BRAC University, Bangladesh. I am a dedicated researcher with a deep passion for Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Artificial Intelligence (AI). Fascinated by the power of data-driven insights, I am drawn to the ever-evolving world of data science, where I strive to push the boundaries of innovation.
 
