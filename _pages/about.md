@@ -11,6 +11,13 @@ redirect_from:
 🤖 Currently, I am actively engaged in writing a research paper, aiming to contribute impactful knowledge to the field. With a keen interest in cutting-edge AI advancements, I continuously explore new techniques and methodologies to develop intelligent solutions. To build a successful researcher portfolio working on the modern fields of Computer Science.
 
 
+🟢 **Research Papers**:
+
+👉 *Conference Paper*:
+
+  I. 1 Conference paper is ACCEPTED in the 8th International Conference on Recent Trends in Image
+     Processing & Pattern Recognition (RTIP2R), Morocco.
+
 🟢 **Some projects of mine to mention**: 
 
 👉 *WebDev Project*:
